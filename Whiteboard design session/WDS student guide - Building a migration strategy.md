@@ -26,7 +26,7 @@ Microsoft and the trademarks listed at https://www.microsoft.com/en-us/legal/int
 
 <!-- TOC -->
 
-- [Building an infrastructure migration strategy](#building-an-infrastructure-migration-strategy)
+- [Building an infrastructure migration strategy whiteboard design session student guide](#building-an-infrastructure-migration-strategy-whiteboard-design-session-student-guide)
   - [Abstract and learning objectives](#abstract-and-learning-objectives)
   - [Step 1: Review the customer case study](#step-1-review-the-customer-case-study)
     - [Customer situation](#customer-situation)
@@ -47,7 +47,7 @@ Microsoft and the trademarks listed at https://www.microsoft.com/en-us/legal/int
 
 <!-- /TOC -->
 
-# Building an infrastructure migration strategy
+# Building an infrastructure migration strategy whiteboard design session student guide
 
 ## Abstract and learning objectives
 
@@ -122,6 +122,7 @@ While each workload will undeniably be different due to different technologies a
 
 ### Common scenarios
 
+![Diagram representing the workflow of the Cloud Adoption Framework, moving from Define strategy to plan to ready to adopt, with manage and govern part of the continuous process.](images/caf.png "Cloud Adoption Framework for Azure")
 
 ## Step 2: Day 1 - Assemble and orchestrate resources
 
