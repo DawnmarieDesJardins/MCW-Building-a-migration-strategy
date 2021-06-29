@@ -38,16 +38,16 @@ Microsoft and the trademarks listed at https://www.microsoft.com/en-us/legal/int
     - [Customer needs](#customer-needs)
     - [Customer objections](#customer-objections)
     - [Common scenarios](#common-scenarios)
-  - [Step 2: Day 1 - Assemble and orchestrate resources](#step-2-day-1---assemble-and-orchestrate-resources)
+  - [Step 2: Assemble and orchestrate resources](#step-2-assemble-and-orchestrate-resources)
   - [Step 3: Envision pitch](#step-3-envision-pitch)
   - [Step 4: Whiteboard design and presentation](#step-4-whiteboard-design-and-presentation)
-  - [Step 5: Day 1 - Validate - Present the solution](#step-5-day-1---validate---present-the-solution)
-  - [Day 1 - Wrap-up](#day-1---wrap-up)
-  - [Step 6: Day 2 - Business case](#step-6-day-2---business-case)
+  - [Step 5: Validate - Present the solution](#step-5-validate---present-the-solution)
+  - [Part 1 - Wrap-up](#part-1---wrap-up)
+  - [Step 6: Business case](#step-6-business-case)
   - [Step 7: Identify engagement with an AMMP partner](#step-7-identify-engagement-with-an-ammp-partner)
   - [Step 8:  Outline what will make a successful migration](#step-8--outline-what-will-make-a-successful-migration)
-  - [Step 9: Day 1 - Validate - Present the solution](#step-9-day-1---validate---present-the-solution)
-  - [Day 2 - Wrap-up](#day-2---wrap-up)
+  - [Step 9: Business case - Present the solution](#step-9-business-case---present-the-solution)
+  - [Part 2 - Wrap-up](#part-2---wrap-up)
   - [Additional references](#additional-references)
 - [Building an infrastructure migration strategy whiteboard design session trainer guide](#building-an-infrastructure-migration-strategy-whiteboard-design-session-trainer-guide)
   - [Step 1: Review the customer case study](#step-1-review-the-customer-case-study-1)
@@ -245,6 +245,8 @@ While each workload will undeniably be different due to different technologies a
 3. Contoso has servers that run workloads that require a consistent performance level. They are concerned that moving these servers will cost more in Azure.
    
 4. Contoso IT staff has limited experience with server migrations and no cloud experience.  It is unlikely that they can handle this type of project along with their current mission-critical application support requirements.
+
+5. Contoso is also discussing their migration to cloud with AWS and Google.  They want to know how Microsoft is any different in services and support.
 
 
 ### Common scenarios
@@ -470,27 +472,47 @@ Directions: Tables reconvene with the larger group to hear the facilitator/SME s
 IT leadership's goals for this initial migration to Azure include:
 
 1. Validate the migration of workloads hosted on legacy Linux and Windows operating systems including Windows Server 2008 R2, and Windows Server 2012 R2 as well as systems hosted on Microsoft SQL Server 2008 R2, to take advantage of the additional time offered for vendor support.
+
+   - Contoso has potentially hardware and software that is coming to end of life or support.  Contoso should evaluate and review the applications that are running on this hardware and understand the potential benefits of migrating these workloads to Azure.
   
 2. Modernize systems to improve availability and resiliency where possible within the timelines needed for rapid migration. While the overarching goal is to re-host existing systems, where meaningful improvements can be made, they should be.
+
+   - Discuss evaluating the current life and depreciation of hardware, and whether there are pending capital investments that will need to be made to maintain critical applications infrastructure.
   
 3. Investigate the potential modernization of application components by evaluating and eventually transitioning to platform services where possible after issues around vendor support have been addressed.
+
+   - Are there any current applications that could be modernized and migrated to the cloud?  An option here would be possibly a web application or an application that utilizes a common programming language, such as asp.net, java, or C#.
   
 4. Educate the business and Contoso Health's management on the processes and tooling that can be used to eventually move the remaining servers to Microsoft Azure, drastically reducing their on-premises presence.
+
+   - Teams should discuss the benefits of using an AMMP partner and the tools that Microsoft has available in Azure for common management of hybrid architectures.  They should also discuss the various migration tools and capabilities with Azure Migrate and replication with Azure Site Recovery.
    
 5. Identify opportunities to optimize operational efficiency and decrease capital expenditures on IT infrastructure.
 
+   - Teams should be evaluating the current Enterprise Agreement and how Contoso can leverage hybrid use benefits to decrease Azure infrastructure cost.  In addition, utilizing other infrastructure cost management tools, such as Reserved Instances and Auto-scaling can also maximize operational efficiency while decrease costs.
 
 
 ## Checklist of preferred objection handling
 
 1. Contoso Health has a current Enterprise Agreement for all of their Windows Server software that includes Software Assurance.  If they migrate any of their workloads to Azure, they do not have to pay for additional Windows Server licensing.
+
+   - The team should be looking at the possibility for Contoso to utilize the hybrid benefits within Azure for Virtual Machines and SQL Databases.
    
 2. The customer currently has servers that are under-utilized most of the year, but need additional capacity during cold weather months due to a rise is health issues.  Contoso does not want to pay extra for server performance that is not used.
+
+   - Depending on the application and deployment, Contoso can leverage the auto-scaling capabilities of Azure App Services for their application.  If they are migrating in a "lift and shift" to Virtual Machines, they can create Virtual Machine scale sets and scaling rules to increase and decrease the number of Virtual Machines running the application based on demand.
    
 3. Contoso has servers that run workloads that require a consistent performance level. They are concerned that moving these servers will cost more in Azure.
+
+   - Since these workloads are running a predictable and constant performance levels, the team should think about the option of Reserved Instances for Contoso.  Using Reserved Instances can significantly decrease the cost of Virtual Machines and SQL Databases.
    
 4. Contoso IT staff has limited experience with server migrations and no cloud experience.  It is unlikely that they can handle this type of project along with their current mission-critical application support requirements.
 
+   - The team should be leveraging and discussing the AMMP program and highlighting the requirements that a partner needs to meet to be a part of the program.  Using an AMMP partner will decrease the time burden of internal IT staff and they will be able to learn about deploying cloud technologies in the process.
+
+5. Contoso is also discussing their migration to cloud with AWS and Google.  They want to know how Microsoft is any different in services and support.
+
+   - Microsoft has tools that allow Contoso to leverage the use of multiple cloud providers and manage them through Azure Arc.  In addition, many of Microsoft's partners also have technical knowledge of other cloud providers.  However, many of the licensing benefits that are provided with Azure usage are not provided when using AWS or Google Cloud.
 
 ## Customer quote (to be read back to the attendees at the end)
 

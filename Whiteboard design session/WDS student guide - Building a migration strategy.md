@@ -119,6 +119,8 @@ While each workload will undeniably be different due to different technologies a
    
 4. Contoso IT staff has limited experience with server migrations and no cloud experience.  It is unlikely that they can handle this type of project along with their current mission-critical application support requirements.
 
+5. Contoso is also discussing their migration to cloud with AWS and Google.  They want to know how Microsoft is any different in services and support.
+
 
 ### Common scenarios
 
