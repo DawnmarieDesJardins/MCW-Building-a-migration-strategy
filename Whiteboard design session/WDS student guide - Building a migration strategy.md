@@ -32,17 +32,10 @@ Microsoft and the trademarks listed at https://www.microsoft.com/en-us/legal/int
     - [Customer situation](#customer-situation)
     - [Customer needs](#customer-needs)
     - [Customer objections](#customer-objections)
-    - [Common scenarios](#common-scenarios)
-  - [Step 2: Assemble and orchestrate resources](#step-2-assemble-and-orchestrate-resources)
-  - [Step 3: Envision pitch](#step-3-envision-pitch)
-  - [Step 4: Whiteboard design and presentation](#step-4-whiteboard-design-and-presentation)
-  - [Step 5: Validate - Present the solution](#step-5-validate---present-the-solution)
-  - [Part 1 - Wrap-up](#part-1---wrap-up)
-  - [Step 6: Business case](#step-6-business-case)
-  - [Step 7: Identify engagement with an AMMP partner](#step-7-identify-engagement-with-an-ammp-partner)
-  - [Step 8:  Outline what will make a successful migration](#step-8--outline-what-will-make-a-successful-migration)
-  - [Step 9: Business case - Present the solution](#step-9-business-case---present-the-solution)
-  - [Part 2 - Wrap-up](#part-2---wrap-up)
+    - [Infographic for common scenarios](#infographic-for-common-scenarios)
+  - [Step 2: Design a proof of concept solution](#step-2-design-a-proof-of-concept-solution)
+  - [Step 3: Present the solution](#step-3-present-the-solution)
+  - [Wrap-up](#wrap-up)
   - [Additional references](#additional-references)
 
 <!-- /TOC -->
@@ -122,11 +115,11 @@ While each workload will undeniably be different due to different technologies a
 5. Contoso is also discussing their migration to cloud with AWS and Google.  They want to know how Microsoft is any different in services and support.
 
 
-### Common scenarios
+### Infographic for common scenarios
 
 ![Diagram representing the workflow of the Cloud Adoption Framework, moving from Define strategy to plan to ready to adopt, with manage and govern part of the continuous process.](images/caf.png "Cloud Adoption Framework for Azure")
 
-## Step 2: Assemble and orchestrate resources
+## Step 2: Design a proof of concept solution
 
 **Outcome**
 
@@ -139,114 +132,42 @@ Directions:  With all participants at your table, answer the following questions
 1. Who should you present this solution to? Who is your target customer audience? Who are the decision makers?
 2. What internal or external technical and business experts would also be needed in a real-world presentation to decision makers?
 
-   
-## Step 3: Envision pitch
-
-**Outcome**
-
-Determine the positioning statement based on the Microsoft Migration and Modernization value proposition.
-
-Timeframe: 30-45 minutes
-
-Directions:  With all participants at your table, answer the following questions and list the answers on a whiteboard:
+*Envision pitch*
 
 1. How will you tie the business needs of Contoso to a positioning statement and value proposition to migrate to Azure?
 
+2. Design a solution and prepare to present the solution that incorporates the CAF/Landing zone to prepare them for migration to the target customer audience in a 15-minute PowerPoint format.
 
-## Step 4: Whiteboard design and presentation 
+3. Create a PowerPoint presentation that presents the value proposition of utilizing the Cloud Adoption Framework for migrating and creating Contoso's first Landing Zone in Azure. 
 
-**Outcome**
-
-Design a solution and prepare to present the solution that incorporates the CAF/Landing zone to prepare them for migration to the target customer audience in a 15-minute PowerPoint format.
-
-Timeframe: 90-120 minutes
-
-Directions:  With all participants at your table, answer the following questions and list the answers on a whiteboard:
-
-1. Create a PowerPoint presentation that presents the value proposition of utilizing the Cloud Adoption Framework for migrating and creating Contoso's first Landing Zone in Azure. 
-
-
-## Step 5: Validate - Present the solution
-
-**Outcome**
-
-Present a solution to the target customer audience in a 15-minute PowerPoint presentation format.  
-
-Validate the value proposition with the customer needs.  Identify the first Landing Zone for migration to Azure.
-
-Timeframe: 30 minutes (15 minutes per team presentation)
-
-**Presentation**
-
-Directions:
-
-1. Pair with another table.
-
-2. One table is the Microsoft team and the other table is the customer.
-
-3. The Microsoft team presents their proposed solution to the customer.
-
-4. The customer makes one of the objections from the list of objections.
-
-5. The Microsoft team responds to the objection.
-
-6. The customer team gives feedback to the Microsoft team.
-
-7. Tables switch roles and repeat Steps 2-6.
-
-## Part 1 - Wrap-up
-
-Timeframe: 15 minutes
-
-Directions: Tables reconvene with the larger group to hear the facilitator/SME share the preferred solution for the case study.
-
-
-## Step 6: Business case
-
-**Outcome**
+*Business case*
 
 Build a business case for licensing optimization gained from an Azure migration.  Provide the economic and operational benefits to quantify, educate, and guide the customer through Cloud Economics best practices.
-
-Timeframe: 60-90 minutes
-
-Directions:  With all participants at your table, answer the following questions and list the answers on a whiteboard:
 
 1. How can you address Contoso's business needs for economic and operational efficiency?
 2. What opportunities are available to optimize licensing and lower overall costs to Contoso?
 
 
-## Step 7: Identify engagement with an AMMP partner
-
-Timeframe: 15 minutes
-
-Directions:  With all participants at your table, answer the following questions and list the answers on a whiteboard:
+*Identify engagement with an AMMP partner*
 
 1. How can Microsoft assist Contoso in identifying and introducing an AMMP partner?
 2. What objection does utilizing an AMMP partner address?
    
-
-## Step 8:  Outline what will make a successful migration
-
-**Outcome**
+*Outline what will make a successful migration*
 
 Expand on the previous whiteboard design based on Cloud Adoption Framework for Azure and outline a successful migration to a Landing Zone.
-
-Timeframe: 60-90 minutes
-
-Directions:  With all participants at your table, answer the following questions and list the answers on a whiteboard:
 
 1. What criteria of success can you show Contoso that outlines a successful first step to migration?
 2. What is the best practice for choosing a workload to be a part of the first Landing Zone?
 3. Create a PowerPoint presentation that establishes the Business Case.  This should address all of the customer needs and objections.
 
-
-## Step 9: Business case - Present the solution
+## Step 3: Present the solution
 
 **Outcome**
 
-Present a solution to the target customer audience in a 15-minute PowerPoint presentation format.
+Present a solution to the target customer audience in a 15-minute PowerPoint presentation format.  
 
-The presentation should outline the Business Case, success criteria for a successful migration, and address all customer needs and objections.
+Validate the value proposition with the customer needs.  Identify the first Landing Zone for migration to Azure. The presentation should outline the Business Case, success criteria for a successful migration, and address all customer needs and objections.
 
 Timeframe: 30 minutes (15 minutes per team presentation)
 
@@ -268,11 +189,14 @@ Directions:
 
 7. Tables switch roles and repeat Steps 2-6.
 
-## Part 2 - Wrap-up
+## Wrap-up
 
 Timeframe: 15 minutes
 
 Directions: Tables reconvene with the larger group to hear the facilitator/SME share the preferred solution for the case study.
+
+
+
 
 
 ## Additional references
