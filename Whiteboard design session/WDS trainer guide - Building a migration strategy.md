@@ -252,7 +252,7 @@ While each workload will undeniably be different due to different technologies a
 ![Diagram representing the workflow of the Cloud Adoption Framework, moving from Define strategy to plan to ready to adopt, with manage and govern part of the continuous process.](images/caf.png "Cloud Adoption Framework for Azure")
 
 
-## Step 2: Day 1 - Assemble and orchestrate resources
+## Step 2: Assemble and orchestrate resources
 
 **Outcome**
 
@@ -292,7 +292,7 @@ Directions:  With all participants at your table, answer the following questions
 1. Create a PowerPoint presentation that presents the value proposition of utilizing the Cloud Adoption Framework for migrating and creating Contoso's first Landing Zone in Azure. 
 
 
-## Step 5: Day 1 - Validate - Present the solution
+## Step 5: Validate - Present the solution
 
 **Outcome**
 
@@ -320,15 +320,14 @@ Directions:
 
 7. Tables switch roles and repeat Steps 2-6.
 
-## Day 1 - Wrap-up
+## Part 1 - Wrap-up
 
 Timeframe: 15 minutes
 
 Directions: Tables reconvene with the larger group to hear the facilitator/SME share the preferred solution for the case study.
 
 
-
-## Step 6: Day 2 - Business case
+## Step 6: Business case
 
 **Outcome**
 
@@ -367,7 +366,7 @@ Directions:  With all participants at your table, answer the following questions
 3. Create a PowerPoint presentation that establishes the Business Case.  This should address all of the customer needs and objections.
 
 
-## Step 9: Day 1 - Validate - Present the solution
+## Step 9: Business case - Present the solution
 
 **Outcome**
 
@@ -395,7 +394,7 @@ Directions:
 
 7. Tables switch roles and repeat Steps 2-6.
 
-## Day 2 - Wrap-up
+## Part 2 - Wrap-up
 
 Timeframe: 15 minutes
 

@@ -33,16 +33,16 @@ Microsoft and the trademarks listed at https://www.microsoft.com/en-us/legal/int
     - [Customer needs](#customer-needs)
     - [Customer objections](#customer-objections)
     - [Common scenarios](#common-scenarios)
-  - [Step 2: Day 1 - Assemble and orchestrate resources](#step-2-day-1---assemble-and-orchestrate-resources)
+  - [Step 2: Assemble and orchestrate resources](#step-2-assemble-and-orchestrate-resources)
   - [Step 3: Envision pitch](#step-3-envision-pitch)
   - [Step 4: Whiteboard design and presentation](#step-4-whiteboard-design-and-presentation)
-  - [Step 5: Day 1 - Validate - Present the solution](#step-5-day-1---validate---present-the-solution)
-  - [Day 1 - Wrap-up](#day-1---wrap-up)
-  - [Step 6: Day 2 - Business case](#step-6-day-2---business-case)
+  - [Step 5: Validate - Present the solution](#step-5-validate---present-the-solution)
+  - [Part 1 - Wrap-up](#part-1---wrap-up)
+  - [Step 6: Business case](#step-6-business-case)
   - [Step 7: Identify engagement with an AMMP partner](#step-7-identify-engagement-with-an-ammp-partner)
   - [Step 8:  Outline what will make a successful migration](#step-8--outline-what-will-make-a-successful-migration)
-  - [Step 9: Day 1 - Validate - Present the solution](#step-9-day-1---validate---present-the-solution)
-  - [Day 2 - Wrap-up](#day-2---wrap-up)
+  - [Step 9: Business case - Present the solution](#step-9-business-case---present-the-solution)
+  - [Part 2 - Wrap-up](#part-2---wrap-up)
   - [Additional references](#additional-references)
 
 <!-- /TOC -->
@@ -124,7 +124,7 @@ While each workload will undeniably be different due to different technologies a
 
 ![Diagram representing the workflow of the Cloud Adoption Framework, moving from Define strategy to plan to ready to adopt, with manage and govern part of the continuous process.](images/caf.png "Cloud Adoption Framework for Azure")
 
-## Step 2: Day 1 - Assemble and orchestrate resources
+## Step 2: Assemble and orchestrate resources
 
 **Outcome**
 
@@ -164,7 +164,7 @@ Directions:  With all participants at your table, answer the following questions
 1. Create a PowerPoint presentation that presents the value proposition of utilizing the Cloud Adoption Framework for migrating and creating Contoso's first Landing Zone in Azure. 
 
 
-## Step 5: Day 1 - Validate - Present the solution
+## Step 5: Validate - Present the solution
 
 **Outcome**
 
@@ -192,15 +192,14 @@ Directions:
 
 7. Tables switch roles and repeat Steps 2-6.
 
-## Day 1 - Wrap-up
+## Part 1 - Wrap-up
 
 Timeframe: 15 minutes
 
 Directions: Tables reconvene with the larger group to hear the facilitator/SME share the preferred solution for the case study.
 
 
-
-## Step 6: Day 2 - Business case
+## Step 6: Business case
 
 **Outcome**
 
@@ -239,7 +238,7 @@ Directions:  With all participants at your table, answer the following questions
 3. Create a PowerPoint presentation that establishes the Business Case.  This should address all of the customer needs and objections.
 
 
-## Step 9: Day 1 - Validate - Present the solution
+## Step 9: Business case - Present the solution
 
 **Outcome**
 
@@ -267,7 +266,7 @@ Directions:
 
 7. Tables switch roles and repeat Steps 2-6.
 
-## Day 2 - Wrap-up
+## Part 2 - Wrap-up
 
 Timeframe: 15 minutes
 
