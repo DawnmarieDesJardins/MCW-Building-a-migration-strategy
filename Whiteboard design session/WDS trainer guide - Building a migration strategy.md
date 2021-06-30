@@ -325,10 +325,13 @@ Directions: Tables reconvene with the larger group to hear the facilitator/SME s
 
 ## Additional references
 
-- [Microsoft Cloud Workshops](https://microsoftcloudworkshop.com/index.html)
-- [Azure Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
-- [Azure Well-architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
-- [Azure Migration Program - AMP](https://www.microsoft.com/azure/partners/amp)
+| **Description** | **Links** |
+| --------------- | --------- |
+|Microsoft Cloud Workshops| <https://microsoftcloudworkshop.com/index.html>|
+|Azure Cloud Adoption Framework|<https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/>|
+|Azure Well-architected Framework|<https://docs.microsoft.com/en-us/azure/architecture/framework/>
+|Azure Migration Program - AMP|<https://www.microsoft.com/azure/partners/amp>|
+
 
 
 # Building an infrastructure migration strategy whiteboard design session trainer guide
