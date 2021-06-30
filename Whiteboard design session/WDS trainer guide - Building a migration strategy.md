@@ -265,8 +265,6 @@ Directions:  With all participants at your table, answer the following questions
 
 2. Design a solution and prepare to present the solution that incorporates the CAF/Landing zone to prepare them for migration to the target customer audience in a 15-minute PowerPoint format.
 
-3. Create a PowerPoint presentation that presents the value proposition of utilizing the Cloud Adoption Framework for migrating and creating Contoso's first Landing Zone in Azure. 
-
 *Business case*
 
 Build a business case for licensing optimization gained from an Azure migration.  Provide the economic and operational benefits to quantify, educate, and guide the customer through Cloud Economics best practices.
@@ -286,7 +284,7 @@ Expand on the previous whiteboard design based on Cloud Adoption Framework for A
 
 1. What criteria of success can you show Contoso that outlines a successful first step to migration?
 2. What is the best practice for choosing a workload to be a part of the first Landing Zone?
-3. Create a PowerPoint presentation that establishes the Business Case.  This should address all of the customer needs and objections.
+
 
 ## Step 3: Present the solution
 
@@ -391,7 +389,7 @@ Directions: Tables reconvene with the larger group to hear the facilitator/SME s
 
 ![Diagram representing the workflow of the Cloud Adoption Framework, moving from Define strategy to plan to ready to adopt, with manage and govern part of the continuous process.](images/caf.png "Cloud Adoption Framework for Azure")
 
-IT leadership's goals for this initial migration to Azure include:
+*Customer needs*
 
 1. Validate the migration of workloads hosted on legacy Linux and Windows operating systems including Windows Server 2008 R2, and Windows Server 2012 R2 as well as systems hosted on Microsoft SQL Server 2008 R2, to take advantage of the additional time offered for vendor support.
 
@@ -412,6 +410,51 @@ IT leadership's goals for this initial migration to Azure include:
 5. Identify opportunities to optimize operational efficiency and decrease capital expenditures on IT infrastructure.
 
    - Teams should be evaluating the current Enterprise Agreement and how Contoso can leverage hybrid use benefits to decrease Azure infrastructure cost.  In addition, utilizing other infrastructure cost management tools, such as Reserved Instances and Auto-scaling can also maximize operational efficiency while decrease costs.
+
+*Envision pitch*
+
+1. How will you tie the business needs of Contoso to a positioning statement and value proposition to migrate to Azure?
+
+   The envision pitch should be tied to the Microsoft Migration and Modernization value proposition. This value proposition should include the business needs of Contoso.
+
+2. Design a solution and prepare to present the solution that incorporates the CAF/Landing zone to prepare them for migration to the target customer audience in a 15-minute PowerPoint format.
+
+   Teams should be create a whiteboard design that identifies a Landing Zone that follows the Cloud Adoption Framework. This whiteboard design will be a part of the PowerPoint presentation for the envision pitch.  A Landing Zone would be a particular workload that has been identified for Contoso to move to Azure, such as a web application, an application on a virtual machine, or a SQL database.
+
+*Business case*
+
+Build a business case for licensing optimization gained from an Azure migration.  Provide the economic and operational benefits to quantify, educate, and guide the customer through Cloud Economics best practices.
+
+1. How can you address Contoso's business needs for economic and operational efficiency?
+
+   To address the business needs for economic and operational efficiency, the business case should review the current EA licensing, and the current depreciation of hardware and software.  Contoso should be able to take advantage of hybrid use benefits within Azure.  
+
+2. What opportunities are available to optimize licensing and lower overall costs to Contoso?
+
+   The use of hybrid use benefit and reserved instances can help with cost optimization.
+
+
+*Identify engagement with an AMMP partner*
+
+1. How can Microsoft assist Contoso in identifying and introducing an AMMP partner?
+
+   Microsoft can provide an introduction to an AMMP partner that has healthcare expertise and provide guidance to Contoso.
+
+2. What objection does utilizing an AMMP partner address?
+
+   An AMMP partner can provide expertise that Contoso does not have and assist them in initiating an Azure migration strategy following Cloud Adoption Framework.
+   
+*Outline what will make a successful migration*
+
+Expand on the previous whiteboard design based on Cloud Adoption Framework for Azure and outline a successful migration to a Landing Zone.
+
+1. What criteria of success can you show Contoso that outlines a successful first step to migration?
+
+   The criteria for success to Contoso should be that they have successfully migrated their first workload and created an Azure Landing Zone.  Teams should show a tangible outcome for operational and economic efficiency.
+
+2. What is the best practice for choosing a workload to be a part of the first Landing Zone?
+
+   In following the Cloud Adoption Framework, part of the planning and ready process is to identify the first workload to migrate to Azure.  The Landing Zone becomes the blueprint for standardization of migration deployment within Azure to govern resources.
 
 
 ## Checklist of preferred objection handling

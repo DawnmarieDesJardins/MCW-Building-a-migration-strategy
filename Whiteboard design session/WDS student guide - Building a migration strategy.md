@@ -138,7 +138,6 @@ Directions:  With all participants at your table, answer the following questions
 
 2. Design a solution and prepare to present the solution that incorporates the CAF/Landing zone to prepare them for migration to the target customer audience in a 15-minute PowerPoint format.
 
-3. Create a PowerPoint presentation that presents the value proposition of utilizing the Cloud Adoption Framework for migrating and creating Contoso's first Landing Zone in Azure. 
 
 *Business case*
 
@@ -159,7 +158,7 @@ Expand on the previous whiteboard design based on Cloud Adoption Framework for A
 
 1. What criteria of success can you show Contoso that outlines a successful first step to migration?
 2. What is the best practice for choosing a workload to be a part of the first Landing Zone?
-3. Create a PowerPoint presentation that establishes the Business Case.  This should address all of the customer needs and objections.
+
 
 ## Step 3: Present the solution
 
